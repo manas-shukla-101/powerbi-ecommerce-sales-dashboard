@@ -187,6 +187,14 @@ _Aspiring Data Analyst | Data Scientist
 Skilled in SQL, Power BI, Machine Learning & Business Analytics_
 
 ---
+---
+**Made with ❤️ by Manas Shukla**
 
+---
+
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://manas-shukla-portfolio.framer.website) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com) 
+
+---
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fmanas-shukla-portfolio.framer.website%2F)](https://manas-shukla-portfolio.framer.website/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com)
